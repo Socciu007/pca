@@ -7,14 +7,14 @@ Dự án này được thiết kế để:
 *   **Link github:** https://github.com/Socciu007/pca.git
 ## 2. Cấu trúc Dự án
 Dự án có cấu trúc thư mục như sau:
-.
+```.
 ├── source/
 │ ├── PCA.py
 │ ├── PreprocessingDataPipeline.py
 │ ├── requirements.txt
 │ └── index.py
 └── README.md
-
+```
 ## 3. Cài đặt
 
 Thực hiện theo các bước sau để cài đặt và thiết lập dự án:
