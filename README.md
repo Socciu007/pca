@@ -4,14 +4,15 @@ Dự án này được thiết kế để:
 *   Minh họa các bước tiền xử lý dữ liệu cần thiết như xử lý giá trị thiếu, mã hóa biến phân loại, chuẩn hóa và phát hiện điểm ngoại lai.
 *   Thực hiện phân tích PCA từ đầu (from scratch).
 *   Áp dụng quy trình trên một tập dữ liệu thực tế để giảm chiều và phân tích các metric liên quan.
-
+*   **Link github:** https://github.com/Socciu007/pca.git
 ## 2. Cấu trúc Dự án
 Dự án có cấu trúc thư mục như sau:
+.
 ├── source/
 │ ├── PCA.py
 │ ├── PreprocessingDataPipeline.py
-│ ├── index.py
-│ └── requirements.txt
+│ ├── requirements.txt
+│ └── index.py
 └── README.md
 
 ## 3. Cài đặt
